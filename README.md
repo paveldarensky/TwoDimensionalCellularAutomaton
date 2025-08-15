@@ -56,7 +56,8 @@ Simulation of a **two-dimensional cellular automaton** with temperature-based ce
 
 ## 🖼 Screenshots / Скриншоты
 
-![Программа](images/application.gif) *Рис. 1 — Пример работы программы*
+![Программа](images/application.gif) 
+*Рис. 1 — Пример работы программы*
 
 ---
 
@@ -76,7 +77,8 @@ Simulation of a **two-dimensional cellular automaton** with temperature-based ce
 - Possible move found → +20…40°C extra heating  
   Есть возможность перемещения → дополнительный нагрев на +20…40°C
 
-**Movement rule / Правило перемещения:**  
+**Movement rule / Правило движения:**  
 If free neighboring cells exist (Moore neighborhood), a cell may move to one of them randomly.  
 Если существуют свободные соседние клетки (окрестность Мура), клетка может случайным образом переместиться в одну из них.
+
 ---
